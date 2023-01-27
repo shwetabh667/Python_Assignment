@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# ## Programming Assignment_9
-# ----------------
-
 # ### 1. Write a Python program to check if the given number is a Disarium Number?
 
 # In[1]:
