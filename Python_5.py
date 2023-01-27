@@ -1,10 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# ## Python Basic Programming Assignment - 5
-# --------------
-# 
-
 # ### 1. Write a Python Program to Find LCM?
 
 # In[2]:
