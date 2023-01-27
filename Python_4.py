@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# ## Programming Assignment_4
-# ----------------
-
 # ### 1. Write a Python Program to Find the Factorial of a Number?
 
 # In[2]:
