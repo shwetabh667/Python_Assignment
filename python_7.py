@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# ## Programming Basic Assignment 7
-
 # ### 1. Write a Python Program to find sum of array?
 
 # In[2]:
