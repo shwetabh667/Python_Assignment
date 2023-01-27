@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# # Python Basic Programming Assignment 8
-
 # ### 1. Write a Python Program to Add Two Matrices?
 
 # In[1]:
