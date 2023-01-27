@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# ## Programming Assignment_2
-# -------------
-
 # ### 1. Write a Python program to convert kilometers to miles?
 # 
 
