@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# # Programming Basic Assignment 6
-
 # ### 1. Write a Python Program to Display Fibonacci Sequence Using Recursion?
 
 # In[ ]:
